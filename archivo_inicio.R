@@ -6,3 +6,6 @@
 
 #Resta
 25-5
+
+#division
+5/2
